@@ -7,4 +7,4 @@ else:
 
 os.system("git add .")
 os.system(f'git commit -am "{commit_name}"')
-os.system("git push origin main")
+os.system("git push origin main");
