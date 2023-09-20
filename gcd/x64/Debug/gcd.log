@@ -1,0 +1,3 @@
+﻿  gcd3.cpp
+C:\Users\HOME\OneDrive\바탕 화면\prework\gcd\gcd3.cpp(26): warning C4715: 'gcd': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  gcd.vcxproj -> C:\Users\HOME\OneDrive\바탕 화면\prework\gcd\x64\Debug\gcd.exe
