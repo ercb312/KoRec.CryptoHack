@@ -1,3 +1,3 @@
 git add .
-git commit -am "완료, 나이스"
+git commit -am "KoRec CryptoHack"
 git push origin main

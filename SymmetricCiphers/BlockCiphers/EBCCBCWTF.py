@@ -1,3 +1,7 @@
+#16 byte의 16진수(hex)를 입력한다 (ex: 10001000100010001000100010001000)
+#위의 16 byte의 hex를 암호화(AES-CBC)한다 
+#Dec(a) = IV|C1|C2
+# x는 xor연산을 나타낸다
 a = "c7193a7c9d1dc6db1f5ac150a14d04597cf17a42a9e3f3e737ffe1fa2144a8d05e74f7c0b44ded003335dcb3eb95c15a"
 
 print(a[:32])
